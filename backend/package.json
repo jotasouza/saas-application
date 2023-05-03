@@ -1,0 +1,31 @@
+{
+  "name": "saas-application",
+  "version": "1.0.0",
+  "description": "Create a MERN saas applications with ReactJS, MongoDB, Node, Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotasouza/saas-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotasouza/saas-application/issues"
+  },
+  "homepage": "https://github.com/jotasouza/saas-application#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cookies": "^0.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.3.0",
+    "mongoose": "^7.1.0"
+  }
+}
